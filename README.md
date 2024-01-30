@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickJanote
-- 👀 I’m interested in game development, mobile development
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and C#
 - 📫 LinkedIn: https://www.linkedin.com/in/henrique-oliveira-janote-31b784183/
 
